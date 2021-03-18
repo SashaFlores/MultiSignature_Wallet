@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ffd64309-1835-45ca-a858-5955a36d1da4/deploy-status)](https://app.netlify.com/sites/mutisig-wallet/deploys)
 
 
-[Connect to MutliSig-Wallet](https://mutisig-wallet.netlify.app/)
+[Demo](https://mutisig-wallet.netlify.app/)
 
 
 --------------------------------------------------------------------------------
